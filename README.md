@@ -1,5 +1,6 @@
 # DIO_criando_uma_ferramenta_de_controle_de_investimentos_com_excel
 Repositório associado ao curso de Excel com Inteligência Artificial DIO
+
 Pergunta de negócio - Criar um simulador simples de investimentos
   1 - Quanto investir por mês?
   2 - Por quantos anos?
@@ -13,7 +14,7 @@ Construir a primeira tabela com as perguntas de negócio e formatar - retirar li
 
 Formatar  os  campos e criar campos calculados perguntas 4 e 5 através das fórmulas VF (transformando anos em meses e ajustando o valor de 1 para positivo) e multiplicando o valor de 1 por 1%.
 
-Construir a segunda tabela com título (Cenários) que fará o progresso de patrimâonio em 02, 05, 10, 20 e 30 anos. Calcular atravéas da fórmula VF inserindo numeração apagada na frente das células pedidas (não esquecendo de congelar a célula). Inserir coluna de dividendo e calcular com base em 1%.
+Construir a segunda tabela com título (Cenários) que fará o progresso de patrimônio em 02, 05, 10, 20 e 30 anos. Calcular através da fórmula VF inserindo numeração apagada na frente das células pedidas (não esquecendo de congelar a célula). Inserir coluna de dividendo e calcular com base em 1%.
 
 Colocar fundo cinza nas células que não devem ser alteradas.
 
